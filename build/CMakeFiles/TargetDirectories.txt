@@ -1,0 +1,12 @@
+C:/web/OOP/lab2/build/CMakeFiles/string_lib.dir
+C:/web/OOP/lab2/build/CMakeFiles/lab2_main.dir
+C:/web/OOP/lab2/build/CMakeFiles/lab2_tests.dir
+C:/web/OOP/lab2/build/CMakeFiles/ALL_BUILD.dir
+C:/web/OOP/lab2/build/CMakeFiles/ZERO_CHECK.dir
+C:/web/OOP/lab2/build/_deps/googletest-build/CMakeFiles/ALL_BUILD.dir
+C:/web/OOP/lab2/build/_deps/googletest-build/googlemock/CMakeFiles/gmock.dir
+C:/web/OOP/lab2/build/_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir
+C:/web/OOP/lab2/build/_deps/googletest-build/googlemock/CMakeFiles/ALL_BUILD.dir
+C:/web/OOP/lab2/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir
+C:/web/OOP/lab2/build/_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir
+C:/web/OOP/lab2/build/_deps/googletest-build/googletest/CMakeFiles/ALL_BUILD.dir
